@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\MVC_app\\MVC_app.csproj": {}
+    "D:\\c#\\NG_2022_1_Mentors\\MVC_app\\MVC_app.csproj": {}
   },
   "projects": {
-    "D:\\c#\\MVC_app\\MVC_app.csproj": {
+    "D:\\c#\\NG_2022_1_Mentors\\MVC_app\\MVC_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\MVC_app\\MVC_app.csproj",
+        "projectUniqueName": "D:\\c#\\NG_2022_1_Mentors\\MVC_app\\MVC_app.csproj",
         "projectName": "MVC_app",
-        "projectPath": "D:\\c#\\MVC_app\\MVC_app.csproj",
+        "projectPath": "D:\\c#\\NG_2022_1_Mentors\\MVC_app\\MVC_app.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\MVC_app\\obj\\",
+        "outputPath": "D:\\c#\\NG_2022_1_Mentors\\MVC_app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
